@@ -1,4 +1,5 @@
 # Image-filters-and-histogram-equalization
+
 ##Description
 A GUI to allow the user to browse for images (grayscale and RGB), choose a filter
 and show the output in both spatial and frequency domains in addition to a histogram equalization.
